@@ -1,0 +1,12 @@
+.imp{
+	background-color: #00fff0;
+	display: inline-block;
+	text-align: center;
+	flex-wrap: wrap;
+	outline: 20px solid #ffffff;
+    transition: width 1s ease-in-out;
+}
+
+.imp:hover {
+    width: 300px;
+}
